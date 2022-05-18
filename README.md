@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 Download the Zip file or Clone the Repo
 
 ```
- https://github.com/tresorsawasawa/hello_microverse.git
+ https://github.com/jaflih/ubiquitous-octo-eureka.git
 ```
 
 Access the directory
